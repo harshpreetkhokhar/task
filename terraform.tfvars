@@ -6,33 +6,35 @@ entity-name ={
 }
 
 tag = {
-   "0"={ "A-name":"harsh"
-   "age":"23"}
+   "0"={ "Entity-type":"Hosts"
+   "name":"LAPTOP-61JQAJSS"
+   }
    "1"={
-    "A-name":"karan"
-    "age":"24"
+   "Entity-type":"APM"
+   "name":"blog"
    }
    "2"={
-    "a-name":"simar"
-    "age":"20"
+  "Entity-type":"APM"
+   "name":"Flask-Feedback-Form-master"
    }
    "3"={
-    "type"="synthetics"
+     "Entity-type":"Synthetics"
+   "name":"FoodMe-Ping"
    }
 }
 
 tag-1 = {
   "0"={
-    "A":"HARSH"
+    "A":"1234"
   }
   "1"={
-    "A":"KARAN"
+    "A":"2345"
   }
   "2"={
-    "A":"SIMAR"
+    "A":"3456"
   }
   "3"={
-    "A"="ping-monitor"
+    "A"="4567"
   }
 
 }
